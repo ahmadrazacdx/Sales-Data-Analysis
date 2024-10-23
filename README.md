@@ -44,8 +44,7 @@ In this project, I have analyzed a comprehensive sales dataset to uncover key in
 Sales-Data-Analysis/
 ├── data/
 │   └── sales_data.csv, header.png
-├── notebooks/
-│   └── sales_data_analysis.ipynb  
+├── sales_data_analysis.ipynb  
 └── README.md                  
 ```
 
@@ -60,7 +59,7 @@ pip install -r requirements.txt
 ```
 3. Open the Jupyter notebook and run the cells:
 ```
-jupyter notebook notebooks/sales_data_analysis.ipynb
+jupyter notebook sales_data_analysis.ipynb
 ```
 ## 📌 Key Recommendations
 - Focus on Technology and Furniture categories to boost sales, as these are highly profitable.
