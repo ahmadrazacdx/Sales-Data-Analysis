@@ -43,5 +43,10 @@ pip install -r requirements.txt
 ```
 jupyter notebook sales_data_analysis.ipynb
 ```
+## 📜License
+
+This project is licensed under a custom license. You are allowed to view, share, and use this project for non-commercial purposes, provided you give appropriate credit to the original author.
+For the full context of the license, please visit [here](https://github.com/ahmadrazacdx/Sales-Data-Analysis?tab=License-1-ov-file).
+
 ## 📧 Contact
 If you have any questions or suggestions, feel free to contact me at: [ahmadrazacdx@gmail.com]
