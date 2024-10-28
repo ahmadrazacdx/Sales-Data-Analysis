@@ -11,25 +11,6 @@ In this project, I have analyzed a comprehensive sales dataset to uncover key in
 6. **Time Series Forecasting** - Forecasting Sales for next quarter
 7. **Hypothesis Testing** – Conducting statistical tests to validate hypothesis.
 
-### Key Insights:
-- Products priced between $10 and $1000 are sold more frequently, while higher-priced products have fewer buyers.
-- Standard shipping mode (3-7 days) is preferred by most customers, contributing significantly to revenue.
-- California and New York lead in sales, with cities like New York, Los Angeles, and San Francisco showing the highest sales.
-- There is no significant correlation between delivery time and sales, but clustering around 4-day delivery is observed.
-- Technology products, especially phones are most profitable.
-
-## 📊 Data Visualizations
-- Sales distribution of sales by product category and sub-category.
-- Analysis of delivery times across various regions and customer segments.
-- Correlation heatmaps to uncover relationships between key variables.
-- Categorical charts for ship modes, regions, states, segment etc
-- Time Series analysis plots
-- SARIMA Model evaluation graphs
-
-## 🔍 Statistical Tests
-- **One-way ANOVA:** Tested sales differences across product categories.
-- **Two-sample t-test:** Compared sales between long-term and new customers.
-
 ## 🛠 Technologies Used
 - **Python**: Core programming language used for the analysis.
 - **Pandas**: Data manipulation and analysis.
@@ -62,11 +43,5 @@ pip install -r requirements.txt
 ```
 jupyter notebook sales_data_analysis.ipynb
 ```
-## 📌 Key Recommendations
-- Focus on Technology and Furniture categories to boost sales, as these are highly profitable.
-- Optimize delivery times for cities like New York, California, and Washington, which have longer delivery periods.
-- Promote Standard Class shipping mode, as it contributes significantly to revenue.
-- Target consumers in high-sales cities (New York, Los Angeles, San Francisco) with customized offers and promotions.
-- Improve the performance of high-price products by offering discounts or bundles to increase their purchase rate.
 ## 📧 Contact
 If you have any questions or suggestions, feel free to contact me at: [ahmadrazacdx@gmail.com]
