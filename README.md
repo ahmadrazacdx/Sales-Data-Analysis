@@ -1,6 +1,6 @@
 # Sales Data Analysis
 A comprehensive data analysis project focusing on sales data exploration, cleaning, and statistical analysis. The project includes key insights into sales trends, customer behavior, product categories, delivery times, and seasonality effects. Advanced statistical tests and visualizations are employed to identify significant relationships and make data-driven decisions.
-- Check out here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ahmadrazacdx/Sales-Data-Analysis/main?urlpath=https%3A%2F%2Fgithub.com%2Fahmadrazacdx%2FSales-Data-Analysis%2Fblob%2Fmain%2Fsales_data_analysis.ipynb)
+
 ## 📝 Project Overview
 In this project, I have analyzed a comprehensive sales dataset to uncover key insights and trends. The analysis is divided into the following steps:
 1. **Data Exploration** – Initial examination of the dataset to understand its structure.
